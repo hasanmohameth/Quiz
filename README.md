@@ -1,4 +1,4 @@
-# 🧠 Quiz App
+#  Quiz App
 A modern React quiz application where users answer questions with a timer, track correct & wrong answers, and see loading & error states.
 
 ---
