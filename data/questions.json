@@ -1,0 +1,62 @@
+[
+  {
+    "question": "1. In React, how does data flow naturally?",
+    "options": ["From children to parents", "From parents to children", "Both ways", "The developer decides"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "2. Imagine you have a React component that renders a huge list. What's the best way to improve performance?",
+    "options": ["Add more state variables", "Use React.memo or virtualization", "Re-render everything every second", "Use setTimeout for each item"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "3. What is the final score?\nconst [score, setScore] = useState(0);\nsetScore(prev => prev + 1);\nsetScore(prev => prev + 1);",
+    "options": ["0", "1", "2", "3"],
+    "correctOption": 2,
+    "points": 10
+  },
+  {
+    "question": "4. Which CSS property would you use to animate a progress bar filling up?",
+    "options": ["border-radius", "transition", "font-size", "display"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "5. What's the main building block of React apps?",
+    "options": ["Components", "Blocks", "Elements", "Effects"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "6. When do we directly manipulate the DOM in React?",
+    "options": ["When we need to add styles", "When listening to an event", "Almost never", "When changing the UI manually"],
+    "correctOption": 2,
+    "points": 10
+  },
+  {
+    "question": "7. How do you pass data into a child component?",
+    "options": ["State", "Props", "Parameters", "PropTypes"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "8. When should you use a callback to update state?",
+    "options": ["When state update depends on previous state", "When updating is slow", "For faster state updates", "When state is data-heavy"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "9. What triggers a re-render in React?",
+    "options": ["Running an effect", "Updating state", "Adding event listeners", "Passing props without change"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "10. What's the name of the syntax used to describe UI in React?",
+    "options": ["JSX", "Babel", "FBJ", "ES2015"],
+    "correctOption": 0,
+    "points": 10
+  }
+]
