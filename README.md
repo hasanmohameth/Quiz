@@ -14,11 +14,12 @@ A modern React quiz application where users answer questions with a timer, track
 ---
 
 ## 🛠️ Tech Stack
-- **React**
-- **Vite**
-- **Context API** (for state management)
-- **JavaScript (ES6+)**
-- **CSS / Tailwind (if used)**
+- React
+- Vite
+- Context 
+- JavaScript (ES6+)
+- ESlint
+  
 
 ---
 
